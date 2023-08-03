@@ -25,5 +25,4 @@ public class BatchConfig {
                 .incrementer(new RunIdIncrementer())
                 .build();
     }
-
 }
